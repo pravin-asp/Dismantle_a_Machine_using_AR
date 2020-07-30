@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 15b15b6520a821f48926f9c22c67b496
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back wheel rod
+    100002: Baring back
+    100004: Baring front
+    100006: //RootNode
+    100008: Body
+    100010: chain
+    100012: Front Rod
+    100014: Front wheel rod
+    100016: Handle
+    100018: Peddle right
+    100020: Peddle right.001
+    100022: peddle rod 1
+    100024: peddle rod 2
+    100026: Seat
+    100028: Tyre string 1
+    100030: Tyre string 2
+    100032: Tyre1
+    100034: Tyre2
+    400000: Back wheel rod
+    400002: Baring back
+    400004: Baring front
+    400006: //RootNode
+    400008: Body
+    400010: chain
+    400012: Front Rod
+    400014: Front wheel rod
+    400016: Handle
+    400018: Peddle right
+    400020: Peddle right.001
+    400022: peddle rod 1
+    400024: peddle rod 2
+    400026: Seat
+    400028: Tyre string 1
+    400030: Tyre string 2
+    400032: Tyre1
+    400034: Tyre2
+    2100000: No Name
+    2300000: Back wheel rod
+    2300002: Baring back
+    2300004: Baring front
+    2300006: Body
+    2300008: chain
+    2300010: Front Rod
+    2300012: Front wheel rod
+    2300014: Handle
+    2300016: Peddle right
+    2300018: Peddle right.001
+    2300020: peddle rod 1
+    2300022: peddle rod 2
+    2300024: Seat
+    2300026: Tyre string 1
+    2300028: Tyre string 2
+    2300030: Tyre1
+    2300032: Tyre2
+    3300000: Back wheel rod
+    3300002: Baring back
+    3300004: Baring front
+    3300006: Body
+    3300008: chain
+    3300010: Front Rod
+    3300012: Front wheel rod
+    3300014: Handle
+    3300016: Peddle right
+    3300018: Peddle right.001
+    3300020: peddle rod 1
+    3300022: peddle rod 2
+    3300024: Seat
+    3300026: Tyre string 1
+    3300028: Tyre string 2
+    3300030: Tyre1
+    3300032: Tyre2
+    4300000: Seat
+    4300002: Handle
+    4300004: Peddle right.001
+    4300006: Peddle right
+    4300008: chain
+    4300010: Baring back
+    4300012: Baring front
+    4300014: peddle rod 2
+    4300016: peddle rod 1
+    4300018: Front Rod
+    4300020: Body
+    4300022: Front wheel rod
+    4300024: Tyre2
+    4300026: Tyre string 2
+    4300028: Tyre1
+    4300030: Back wheel rod
+    4300032: Tyre string 1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
